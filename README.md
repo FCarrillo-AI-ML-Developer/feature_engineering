@@ -1,2 +1,2 @@
-# feature_engineering
-Hands on practice to apply on projects using samples.
+# Feature Engineering
+Hands on practice tutorials under Dr. Zeenat to apply on projects using samples.
